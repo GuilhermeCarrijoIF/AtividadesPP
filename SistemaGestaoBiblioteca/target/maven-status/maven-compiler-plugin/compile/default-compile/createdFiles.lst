@@ -1,0 +1,10 @@
+br\edu\ifgoiano\bo\EmprestimoBO.class
+br\edu\ifgoiano\dao\EmprestimoDAO.class
+br\edu\ifgoiano\view\MenuConsole.class
+br\edu\ifgoiano\controller\BibliotecaController.class
+br\edu\ifgoiano\dao\LivroDAO.class
+br\edu\ifgoiano\bo\LivroBO.class
+br\edu\ifgoiano\dao\LivroMemoryDAO.class
+br\edu\ifgoiano\dao\EmprestimoMemoryDAO.class
+br\edu\ifgoiano\model\Livro.class
+br\edu\ifgoiano\model\Emprestimo.class
