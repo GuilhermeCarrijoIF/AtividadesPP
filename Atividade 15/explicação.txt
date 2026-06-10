@@ -1,0 +1,25 @@
+Atividade 15 - Plataforma de Vídeo (Padrão Observer)	
+
+Resumo do padrão Observer:
+O padrão Observer cria uma relação um-para-muitos. Um objeto principal, chamado Subject ou Sujeito, mantém uma lista de observadores interessados. Quando o estado do Subject muda, ele notifica automaticamente os Observers cadastrados.
+
+Aplicação no programa:
+- Subject: interface que define addObserver, removeObserver e notifyObservers.
+- Observer: interface que define o método update.
+- PlataformaStreaming: ConcreteSubject. Ela armazena os clientes inscritos por gênero e notifica apenas os interessados quando um novo conteúdo é adicionado.
+- Cliente: ConcreteObserver. Cada cliente recebe a notificação no método update.
+- Filme: representa o novo conteúdo da plataforma.
+- Genero: enum com os gêneros disponíveis: ação, comédia, terror, anime e ficção científica.
+
+Exemplo de funcionamento:
+O programa cria 5 clientes: Ana, Bruno, Carla, Diego e Elisa.
+Cada cliente se inscreve em um ou mais gêneros.
+Quando um novo filme ou série é adicionado, a plataforma verifica o gênero do conteúdo e notifica somente os clientes inscritos naquele gênero.
+Também há um exemplo de cancelamento de inscrição, mostrando que o usuário pode parar de receber notificações de determinado gênero.
+
+Explicação do UML:
+O diagrama mostra as interfaces Subject e Observer no topo, representando o contrato do padrão Observer.
+A classe PlataformaStreaming implementa Subject e mantém uma lista de observadores por gênero.
+A classe Cliente implementa Observer e reage às notificações pelo método update.
+A classe Filme representa o conteúdo adicionado, enquanto Genero define os tipos de conteúdo usados para filtrar as notificações.
+A classe Main apenas executa a simulação com 5 clientes.

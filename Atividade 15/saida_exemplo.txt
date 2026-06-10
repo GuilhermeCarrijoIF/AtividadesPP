@@ -1,0 +1,34 @@
+Ana se inscreveu para receber notifica??es de A??o.
+Ana se inscreveu para receber notifica??es de Anime.
+Bruno se inscreveu para receber notifica??es de Com?dia.
+Bruno se inscreveu para receber notifica??es de Fic??o Cient?fica.
+Carla se inscreveu para receber notifica??es de Terror.
+Carla se inscreveu para receber notifica??es de A??o.
+Diego se inscreveu para receber notifica??es de Anime.
+Elisa se inscreveu para receber notifica??es de Fic??o Cient?fica.
+Elisa se inscreveu para receber notifica??es de Com?dia.
+
+Novo conte?do adicionado na plataforma: Filme "Miss?o Final" - G?nero: A??o
+Notifica??o para Ana: novo conte?do dispon?vel -> Filme "Miss?o Final" - G?nero: A??o
+Notifica??o para Carla: novo conte?do dispon?vel -> Filme "Miss?o Final" - G?nero: A??o
+
+Novo conte?do adicionado na plataforma: S?rie "Risadas em Fam?lia" - G?nero: Com?dia
+Notifica??o para Bruno: novo conte?do dispon?vel -> S?rie "Risadas em Fam?lia" - G?nero: Com?dia
+Notifica??o para Elisa: novo conte?do dispon?vel -> S?rie "Risadas em Fam?lia" - G?nero: Com?dia
+
+Novo conte?do adicionado na plataforma: Filme "Casa Sombria" - G?nero: Terror
+Notifica??o para Carla: novo conte?do dispon?vel -> Filme "Casa Sombria" - G?nero: Terror
+
+Novo conte?do adicionado na plataforma: S?rie "Rob?s do Amanh?" - G?nero: Fic??o Cient?fica
+Notifica??o para Bruno: novo conte?do dispon?vel -> S?rie "Rob?s do Amanh?" - G?nero: Fic??o Cient?fica
+Notifica??o para Elisa: novo conte?do dispon?vel -> S?rie "Rob?s do Amanh?" - G?nero: Fic??o Cient?fica
+
+Novo conte?do adicionado na plataforma: Anime "Academia dos Her?is" - G?nero: Anime
+Notifica??o para Ana: novo conte?do dispon?vel -> Anime "Academia dos Her?is" - G?nero: Anime
+Notifica??o para Diego: novo conte?do dispon?vel -> Anime "Academia dos Her?is" - G?nero: Anime
+
+Exemplo de cancelamento de notifica??o:
+Ana cancelou as notifica??es de A??o.
+
+Novo conte?do adicionado na plataforma: Filme "Corrida Explosiva" - G?nero: A??o
+Notifica??o para Carla: novo conte?do dispon?vel -> Filme "Corrida Explosiva" - G?nero: A??o
